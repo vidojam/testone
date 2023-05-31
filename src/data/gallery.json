@@ -2,26 +2,31 @@
   {
     "id": 1,
     "title": "title1",
-    "image": "https://picsum.photos/seed/picsum/200/300random=1"
+    "content": "Hello, this is a test",
+    "image": "https://picsum.photos/800/900?random=1"
   },
   {
     "id": 2,
-    "title": "title1",
-    "image": "https://picsum.photos/seed/picsum/200/300random=2"
+    "title": "title2",
+    "content": "Hello, this is a test",
+    "image": "https://picsum.photos/800/900?random=2"
   },
   {
     "id": 3,
     "title": "title3",
-    "image": "https://picsum.photos/seed/picsum/200/300random=3"
+    "content": "Hello, this is a test",
+    "image": "https://picsum.photos/800/900?random=3"
   },
   {
     "id": 4,
     "title": "title4",
-    "image": "https://picsum.photos/seed/picsum/200/300random=4"
+    "content": "Hello, this is a test",
+    "image": "https://picsum.photos/800/900?random=4"
   },
   {
     "id": 5,
     "title": "title5",
-    "image": "https://picsum.photos/seed/picsum/200/300random=5"
+    "content": "Hello, this is a test",
+    "image": "https://picsum.photos/800/900?random=5"
   }
 ]
